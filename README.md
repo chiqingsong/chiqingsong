@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.gfycat.com/IdealEvergreenAmoeba-max-1mb.gif)
 <h1 align="center">Hi 👋, I'm ChiQingSong</h1>
 <h3 align="center">A Simple Web Surfers from China</h3>
-<img align="right" alt="Coding" width="400" src="https://www.7taogame.com/wp-content/uploads/2022/05/20220516_6281c0f95ca23.gif">
+<img align="right" alt="Coding" width="300" src="https://www.7taogame.com/wp-content/uploads/2022/05/20220516_6281c0f95ca23.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiqingsong&label=Profile%20views&color=0e75b6&style=flat" alt="chiqingsong" /> </p>
 
 <h3 align="left">Connect with me:</h3>
